@@ -237,7 +237,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 357029,
+                  "size": 357658,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
@@ -461,7 +461,7 @@
                 {
                   "size": 21053,
                   "node": {
-                    "color": "#2b7489",
+                    "color": "#3178c6",
                     "name": "TypeScript"
                   }
                 },
@@ -488,7 +488,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 66656,
+                  "size": 67327,
                   "node": {
                     "color": "#5e5086",
                     "name": "Haskell"
@@ -532,17 +532,24 @@
             "languages": {
               "edges": [
                 {
-                  "size": 2914,
+                  "size": 4428,
                   "node": {
-                    "color": "#2b7489",
+                    "color": "#3178c6",
                     "name": "TypeScript"
                   }
                 },
                 {
-                  "size": 587,
+                  "size": 623,
                   "node": {
                     "color": "#f1e05a",
                     "name": "JavaScript"
+                  }
+                },
+                {
+                  "size": 452,
+                  "node": {
+                    "color": "#e34c26",
+                    "name": "HTML"
                   }
                 }
               ]
@@ -554,24 +561,38 @@
             "languages": {
               "edges": [
                 {
-                  "size": 55839,
+                  "size": 59947,
                   "node": {
                     "color": "#5e5086",
                     "name": "Haskell"
                   }
                 },
                 {
-                  "size": 21203,
+                  "size": 26629,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
                   }
                 },
                 {
-                  "size": 1410,
+                  "size": 20714,
+                  "node": {
+                    "color": "#e34c26",
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 2686,
                   "node": {
                     "color": "#198CE7",
                     "name": "R"
+                  }
+                },
+                {
+                  "size": 1864,
+                  "node": {
+                    "color": "#89e051",
+                    "name": "Shell"
                   }
                 }
               ]
@@ -598,7 +619,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 36615,
+                  "size": 35239,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
@@ -630,22 +651,206 @@
             }
           },
           {
-            "name": "i3kill",
+            "name": "i3utils",
             "createdAt": "2021-12-12T17:10:35Z",
             "languages": {
               "edges": [
                 {
-                  "size": 2744,
+                  "size": 9707,
                   "node": {
                     "color": "#5e5086",
                     "name": "Haskell"
                   }
                 },
                 {
-                  "size": 580,
+                  "size": 3575,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "langs",
+            "createdAt": "2021-12-18T20:38:20Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 2130,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "network-and-accessiblity-analysis",
+            "createdAt": "2022-01-13T17:54:01Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 3816364,
+                  "node": {
+                    "color": "#DA5B0B",
+                    "name": "Jupyter Notebook"
+                  }
+                },
+                {
+                  "size": 485,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "parallel-IO-haskell-demo",
+            "createdAt": "2022-02-18T17:38:28Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 1399,
+                  "node": {
+                    "color": "#5e5086",
+                    "name": "Haskell"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "ueberzug-hs",
+            "createdAt": "2022-03-13T14:27:02Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 7381,
+                  "node": {
+                    "color": "#5e5086",
+                    "name": "Haskell"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "cnkgroup",
+            "createdAt": "2022-05-26T07:49:21Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 118631,
+                  "node": {
+                    "color": "#5e5086",
+                    "name": "Haskell"
+                  }
+                },
+                {
+                  "size": 33147,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
+                  }
+                },
+                {
+                  "size": 8948,
+                  "node": {
+                    "color": "#427819",
+                    "name": "Makefile"
+                  }
+                },
+                {
+                  "size": 5710,
+                  "node": {
+                    "color": "#3178c6",
+                    "name": "TypeScript"
+                  }
+                },
+                {
+                  "size": 4585,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                },
+                {
+                  "size": 429,
+                  "node": {
+                    "color": "#f1e05a",
+                    "name": "JavaScript"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "papers",
+            "createdAt": "2022-06-14T20:52:16Z",
+            "languages": {
+              "edges": []
+            }
+          },
+          {
+            "name": "fyne-test",
+            "createdAt": "2022-07-08T21:19:33Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 204,
+                  "node": {
+                    "color": "#00ADD8",
+                    "name": "Go"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "click-me",
+            "createdAt": "2022-07-13T22:58:34Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 2462,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "get-paths",
+            "createdAt": "2022-07-14T00:47:58Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 989,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "train-passenger-distribution",
+            "createdAt": "2022-08-02T16:05:16Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 21703,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
                   }
                 }
               ]
