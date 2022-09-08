@@ -3,8 +3,8 @@ query {
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
       nodes {
         name
+        createdAt
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
-          totalSize
           edges {
             size
             node {
