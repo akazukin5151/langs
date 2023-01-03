@@ -237,7 +237,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 357658,
+                  "size": 360111,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
@@ -619,7 +619,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 35239,
+                  "size": 48094,
                   "node": {
                     "color": "#3572A5",
                     "name": "Python"
@@ -847,10 +847,119 @@
             "languages": {
               "edges": [
                 {
-                  "size": 21703,
+                  "size": 21684,
                   "node": {
                     "color": "#dea584",
                     "name": "Rust"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "atupp",
+            "createdAt": "2022-10-07T16:54:51Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 32739,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
+                  }
+                },
+                {
+                  "size": 4116,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "govt-spending-vs-wealth",
+            "createdAt": "2022-12-02T14:47:17Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 4922,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "approportionment",
+            "createdAt": "2022-12-02T15:10:34Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 45498,
+                  "node": {
+                    "color": "#dea584",
+                    "name": "Rust"
+                  }
+                },
+                {
+                  "size": 18649,
+                  "node": {
+                    "color": "#3178c6",
+                    "name": "TypeScript"
+                  }
+                },
+                {
+                  "size": 14974,
+                  "node": {
+                    "color": "#dfafff",
+                    "name": "Dhall"
+                  }
+                },
+                {
+                  "size": 9679,
+                  "node": {
+                    "color": "#3572A5",
+                    "name": "Python"
+                  }
+                },
+                {
+                  "size": 2410,
+                  "node": {
+                    "color": "#e34c26",
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 793,
+                  "node": {
+                    "color": "#563d7c",
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 370,
+                  "node": {
+                    "color": "#f1e05a",
+                    "name": "JavaScript"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "akazukin5151.github.io",
+            "createdAt": "2022-12-21T03:45:27Z",
+            "languages": {
+              "edges": [
+                {
+                  "size": 177,
+                  "node": {
+                    "color": "#e34c26",
+                    "name": "HTML"
                   }
                 }
               ]
